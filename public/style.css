@@ -1,0 +1,15 @@
+
+body{
+    font-family: 'aleo' sans-serif;
+
+    
+}&:hover{
+        backgroung: $FAF1E6;
+        transition: 0.2s ease-out;
+        cursor: pointer;
+        color: #fff;
+    }
+}
+
+
+
